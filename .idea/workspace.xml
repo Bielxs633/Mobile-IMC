@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f3b406f-9bbc-498a-bf9f-a5d80476e006" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/App.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/model/Consulta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/model/Consulta.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/model/Medico.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/model/Medico.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/model/Paciente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senai/sp/jandira/imc/model/Paciente.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

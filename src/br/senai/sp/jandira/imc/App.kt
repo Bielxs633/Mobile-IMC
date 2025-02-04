@@ -1,5 +1,6 @@
 package br.senai.sp.jandira.imc
 
+import br.senai.sp.jandira.imc.model.Consulta
 import br.senai.sp.jandira.imc.model.Medico
 import br.senai.sp.jandira.imc.model.Paciente
 import java.time.LocalDate
@@ -65,10 +66,9 @@ fun main() {
     medico2.especialidades.addAll(listOf("Cardiologista", "Otorrionolaringologista", "Clinico Geral"))
     medico2.mostrarFichaMedico()
 
-    // Criar uma consulta para o Paciente1
-
-    var consulta1 = Consulta()
-
+    // Criar uma consulta
+    var c1 = Consulta()
+    c1.marcarConsulta(100.0, LocalDate.of(2025, 2,15 ))
 
 }
 
