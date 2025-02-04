@@ -1,5 +1,3 @@
-# Mobile - Aula 1
-
-## Calculadora de IMC
+# Mobile 
 
 (https://github.com/Bielxs633/Mobile)
