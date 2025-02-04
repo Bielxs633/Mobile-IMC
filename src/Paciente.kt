@@ -1,3 +1,6 @@
+// Programador ( dev ): Gabriel
+// Data: 04/02/2025
+
 import java.time.LocalDate
 import java.time.Period
 import kotlin.math.pow
